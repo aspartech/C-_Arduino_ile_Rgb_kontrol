@@ -1,0 +1,11 @@
+C:\Users\eenes\OneDrive\Masaüstü\Kodlar\VS\Arduino_Rgb\Arduino_Rgb\bin\Debug\Arduino_Rgb.exe.config
+C:\Users\eenes\OneDrive\Masaüstü\Kodlar\VS\Arduino_Rgb\Arduino_Rgb\bin\Debug\Arduino_Rgb.exe
+C:\Users\eenes\OneDrive\Masaüstü\Kodlar\VS\Arduino_Rgb\Arduino_Rgb\bin\Debug\Arduino_Rgb.pdb
+C:\Users\eenes\OneDrive\Masaüstü\Kodlar\VS\Arduino_Rgb\Arduino_Rgb\obj\Debug\Arduino_Rgb.csproj.AssemblyReference.cache
+C:\Users\eenes\OneDrive\Masaüstü\Kodlar\VS\Arduino_Rgb\Arduino_Rgb\obj\Debug\Arduino_Rgb.csproj.SuggestedBindingRedirects.cache
+C:\Users\eenes\OneDrive\Masaüstü\Kodlar\VS\Arduino_Rgb\Arduino_Rgb\obj\Debug\Arduino_Rgb.Form1.resources
+C:\Users\eenes\OneDrive\Masaüstü\Kodlar\VS\Arduino_Rgb\Arduino_Rgb\obj\Debug\Arduino_Rgb.Properties.Resources.resources
+C:\Users\eenes\OneDrive\Masaüstü\Kodlar\VS\Arduino_Rgb\Arduino_Rgb\obj\Debug\Arduino_Rgb.csproj.GenerateResource.cache
+C:\Users\eenes\OneDrive\Masaüstü\Kodlar\VS\Arduino_Rgb\Arduino_Rgb\obj\Debug\Arduino_Rgb.csproj.CoreCompileInputs.cache
+C:\Users\eenes\OneDrive\Masaüstü\Kodlar\VS\Arduino_Rgb\Arduino_Rgb\obj\Debug\Arduino_Rgb.exe
+C:\Users\eenes\OneDrive\Masaüstü\Kodlar\VS\Arduino_Rgb\Arduino_Rgb\obj\Debug\Arduino_Rgb.pdb
